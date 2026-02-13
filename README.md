@@ -60,13 +60,21 @@ This analysis covers:
 ## 📁 Repository Structure
 
 ├── README.md # Project overview and documentation
+
 ├── sql_queries/ # Folder containing all SQL scripts
+
 │ ├── order_analysis.sql
+
 │ ├── sales_performance.sql
+
 │ ├── peak_periods.sql
+
 │ ├── seasonal_analysis.sql
+
 │ └── customer_behavior.sql
+
 └── data/ # Kaggle dataset (or sample/anonymized data)
+
 
 
 
@@ -99,3 +107,5 @@ LinkedIn: [Keerthana Mathaiyan](https://www.linkedin.com/in/keerthana-mathaiyan/
 
 🧾 License This project is developed for educational and research purposes only
 Dataset License: [Kaggle Dataset License](https://www.kaggle.com/datasets/shilongzhuang/pizza-sales/code)
+
+📌Reference: SQL and Kaggle dataset
