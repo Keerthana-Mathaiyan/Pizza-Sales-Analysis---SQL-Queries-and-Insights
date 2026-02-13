@@ -2,7 +2,7 @@
 
 A comprehensive SQL-based analysis of pizza sales data to uncover actionable business insights. This project focuses on understanding order trends, revenue patterns, customer preferences, and product performance, helping pizza businesses make data-driven decisions.
 
-> **📂 Dataset Source:** [Kaggle – Pizza Sales Dataset](https://www.kaggle.com/datasets)  
+> **📂 Dataset Source:** [Kaggle – Pizza Sales Dataset](https://www.kaggle.com/datasets/shilongzhuang/pizza-sales/code)  
 
 ---
 
